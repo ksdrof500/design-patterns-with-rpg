@@ -1,4 +1,4 @@
-package br.com.design_patterns_with_rpg.creational
+package br.com.design_patterns_with_rpg.creational.creating
 
 import org.junit.jupiter.api.Test
 import java.io.File
